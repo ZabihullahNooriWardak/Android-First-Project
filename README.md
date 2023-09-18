@@ -24,3 +24,6 @@ To run this project on your local machine or emulator, follow these steps:
 
    ```shell
    git clone https://github.com/your-username/learning-app.git
+2. Make sure you have your emulator and android studio
+3. open the project from your ide
+4. and run it boom 😅
